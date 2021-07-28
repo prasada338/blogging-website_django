@@ -49,13 +49,5 @@ $ docker-compose up --build
 
 - Goto http://localhost:8000/ and have fun!
 
-## Demo
-
-![Demoimg](demo.gif)
-
-
-## License
-
-> [MIT](/LICENSE.md)
 
 
