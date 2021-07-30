@@ -1,17 +1,6 @@
-<h1 align="center" >Fantastic Django Blog 👏</h1>
+<h1 align="center" > Django Blog 👏</h1>
 
 
-
-> Simple blog app made with 💖 in Django!
-
-## Table of Content 🎉
-
-- [Introduction](#introduction)
-- [Technologies](#technologies)
-- [Features](#features)
-- [Setup](#setup)
-
-- [LICENSE](#license)
 
 
 ## Technologies
