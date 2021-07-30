@@ -1,4 +1,4 @@
-<h1 align="center" > Django Blog 👏</h1>
+<h1 align="center" > Django Blog</h1>
 
 
 
